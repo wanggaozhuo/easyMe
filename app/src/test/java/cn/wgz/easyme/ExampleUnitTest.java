@@ -10,6 +10,7 @@ import static org.junit.Assert.assertEquals;
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  *
  * test istest
+ 0000000
  */
 public class ExampleUnitTest {
     @Test
